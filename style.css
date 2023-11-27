@@ -1,0 +1,240 @@
+*{
+    color: white;
+}
+body{
+   background-image: url(logo.jpg);
+   height: 800px;
+}
+main{
+    background-color: rgba(0, 0, 0, 0.61);
+    border-radius: 5px;
+    height: 800px;
+}
+.logo{
+    padding-left: 130pt;
+    display: pointer;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.menu{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.option{
+    float: right;
+    padding: 60px 80px 0px 290px;
+    border: none; 
+}
+#lang{
+    height: 30px;
+    width: 120px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.801);
+}
+.option button{
+    background-color: red;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    border: none;
+}
+.head_content{
+    padding-top: 105px;
+}
+.email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 15px;
+    padding-bottom: 100px;
+}
+.email button{
+    background-color: rgba(218, 5, 5, 0.911);
+    height: 46.7px;
+    width: 190px;
+    border-radius: 5px;
+    border: none;
+    font-size: 23px;
+    font-weight: bold;
+    left: 20px;
+}
+article{
+    background: linear-gradient(45deg,black , rgba(110, 102, 102, 0.979));
+    padding-top: 16px;
+    height: 3084px;
+}
+.article_content{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    height: 430px;
+    padding-top: 90px;
+}
+.article_content_part1{
+    padding-top: 80px;
+}
+
+.article_content_part2 img {
+    padding-left: 2px;
+    position: relative;
+    width: 590px;
+    height: 350px;
+    object-fit: cover;
+}
+.article_content_part21{
+    position: relative;
+}
+.article_content_part2 video {
+    position: absolute;
+    top: 797.9px;
+    left: 779px;
+    width: 426.7px;
+    height: 239.8px;
+    object-fit: cover;
+}
+.article_content1{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.article_content_one{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 70px;
+}
+.article_content3{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    height: 430px;
+    margin-top: 20px;
+}
+.article_content_part13{
+    padding-top: 80px;
+}
+.article_content_part23 img {
+    padding-top: 60px;
+    padding-left: 2px;
+    position: relative;
+    width: 590px;
+    height: 310px;
+    object-fit: cover;
+}
+.article_content_part23 video {
+    position: absolute;
+    top: 1909px;
+    left: 812px;
+    width: 365px;
+    height: 245px;
+    object-fit: cover;
+}
+.article_content14{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.article_content_one4{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 70px;
+}
+.article_content_part214{
+    position: relative;
+}
+.article_content_part214 img{
+    height: 400px;
+    width: 650px;
+    padding-left: 3%;
+}
+.article_content_part14{
+    padding-top: 80px;
+}
+.faq-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .faq-item {
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: rgba(41, 39, 39, 0.842);
+    padding: 20px;
+    text-align: left;
+    font-size: 20px;
+    color: white;
+  }
+  
+  .faq-toggle {
+    display: none;
+  }
+  
+  .faq-question {
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .faq-answer {
+    display: none;
+    padding-left: 20px;
+  }
+  
+  .faq-toggle:checked ~ .faq-answer {
+    display: block;
+  }
+  
+  .faq-section h2 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .frequent_question{
+    background-color: black;
+    padding-top: 20px;
+    flex-direction: column;
+}
+footer {
+    background-color: #111;
+    color: #837e7e;
+    padding: 40px 0;
+    height: 370px;
+    border-top: 20px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 120px;
+}
+
+.footer-column {
+    flex: 1;
+    margin-right: 20px;
+}
+ul{
+    list-style: none;
+}
+.footer-column ul li{
+    margin-bottom: 30px;
+}
+#lang2{
+    font-size: 16px;
+    width: 120px;
+    height: 30px;
+    padding-left: 10px;
+    background-color: transparent;
+    border-radius: 5px;
+}
+.lang_footer{
+    padding-left: 150px;
+}
+.copyright{
+    padding-left: 150px;
+    padding-top: 10px;
+}
