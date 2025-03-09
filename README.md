@@ -6,16 +6,16 @@ This repository contains Task 3 of the Bharath Internship, which showcases a web
 ## 📸 Screenshots  
 
 ### 🏠 Homepage  
-![Homepage](https://raw.githubusercontent.com/DipeshJayakara/Bharath-Intern-Task-3/main/Screenshot%202024-10-24%20163811.png)
+![Homepage](homepage.png)
 
 ### 🔹 Another Section  
-![Another Screenshot](https://raw.githubusercontent.com/DipeshJayakara/Bharath-Intern-Task-3/main/Screenshot%202024-10-24%20163838.png)
+![Another Screenshot](sc1.png)
 
 ### 📊 More Screenshots  
-![Screenshot 3](https://raw.githubusercontent.com/DipeshJayakara/Bharath-Intern-Task-3/main/Screenshot%202024-10-24%20163848.png)  
-![Screenshot 4](https://raw.githubusercontent.com/DipeshJayakara/Bharath-Intern-Task-3/main/Screenshot%202024-10-24%20163901.png)  
-![Screenshot 5](https://raw.githubusercontent.com/DipeshJayakara/Bharath-Intern-Task-3/main/Screenshot%202024-10-24%20163913.png)  
-![Screenshot 6](https://raw.githubusercontent.com/DipeshJayakara/Bharath-Intern-Task-3/main/Screenshot%202024-10-24%20163925.png)  
+![Screenshot 3](sc2.png)  
+![Screenshot 4](sc3.png)  
+![Screenshot 5](sc4.png)  
+![Screenshot 6](footer.png)  
 
 ## ⚙️ Technologies Used  
 - HTML  
