@@ -6,16 +6,16 @@ This repository contains Task 3 of the Bharath Internship, which showcases a web
 ## 📸 Screenshots  
 
 ### 🏠 Homepage  
-![Homepage](homepage.png)
+![Homepage](assets/homepage.png)
 
 ### 🔹 Another Section  
-![Another Screenshot](sc1.png)
+![Another Screenshot](assets/sc1.png)
 
 ### 📊 More Screenshots  
-![Screenshot 3](sc2.png)  
-![Screenshot 4](sc3.png)  
-![Screenshot 5](sc4.png)  
-![Screenshot 6](footer.png)  
+![Screenshot 3](assets/sc2.png)  
+![Screenshot 4](assets/sc3.png)  
+![Screenshot 5](assets/sc4.png)  
+![Screenshot 6](assets/footer.png)  
 
 ## ⚙️ Technologies Used  
 - HTML  
